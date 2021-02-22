@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @ryanmeinzer-codingscape
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi, I'm Ryan. 👋 
 
-<!---
-ryanmeinzer-codingscape/ryanmeinzer-codingscape is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I work as a full stack engineering contractor at [Codingscape](https://codingscape.com/). I mainly build in React, Redux, JavaScript and PostgreSQL.
+
+## Codingscape 🌵
+
+We are a full-service software consulting and development company with decades of experience building front- and back-end software solutions for world-class technology companies.
+
+# Contact 📫
+
+Have a projects for us? Let’s talk - <ryan@codingscape.com>. 
